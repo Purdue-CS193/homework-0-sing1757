@@ -1,7 +1,7 @@
 ## Prisha Singh
 ## Things I like about CS193: 
--I like the slideshows
--I like the professors
+- I like the slideshows
+- I like the professors
 
 
 ## Welcome to GitHub Pages
